@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php 
+<?php require_once("header.php"); ?>
 <html>
 <script src="https://d3js.org/d3.v4.js"></script>
 <body>
