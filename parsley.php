@@ -1,4 +1,3 @@
-<?php require_once("header.php"); ?>
 <div class="bs-callout bs-callout-warning hidden">
   <h4>Oh snap!</h4>
   <p>This form seems to be invalid :(</p>
