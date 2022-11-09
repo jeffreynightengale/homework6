@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Homework 4</title>
+    <title>Homework 6</title>
   </head>
 <nav class="navbar navbar-expand-lg bg-light">
   <div class="container-fluid">
