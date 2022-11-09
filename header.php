@@ -23,9 +23,6 @@
         <li class="nav-item">
           <a class="nav-link" href="change.php">Change Text</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="alert.php">Alert</a>
-        </li>
       </ul>
     </div>
   </div>
