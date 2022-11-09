@@ -21,7 +21,7 @@
           <a class="nav-link" href="plotly.php">Plotly</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="change.php">Change Text</a>
+          <a class="nav-link" href="chart.php">Chart.js</a>
         </li>
       </ul>
     </div>
