@@ -15,7 +15,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php">Light Bulb</a>
+          <a class="nav-link active" aria-current="page" href="index.php">D3 Scatter Plot</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="hide.php">Hide Text</a>
